@@ -7,16 +7,16 @@ title: Darren Sandy
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Darren
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Space:
+    - Darren: "https://v.qq.com"
+    - Sandy: "https://www.iqiyi.com/"
+  Author's home: "https://weibo.com/superfhao"
 
 # --- Logo --- #
 
