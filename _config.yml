@@ -29,7 +29,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /assets/img/hello_world.jpeg
+#title-img: /assets/img/hello_world.jpeg
 
 
 # --- Footer options --- #
@@ -61,10 +61,10 @@ social-network-links:
 # --- General options --- #
 
 # Select which social network share links to show in posts
-share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
+#share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
