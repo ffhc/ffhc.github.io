@@ -12,7 +12,7 @@ author: Darren
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Today: "aboutme"
   Space:
     - Darren: "https://v.qq.com"
     - Sandy: "https://www.iqiyi.com/"
