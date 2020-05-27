@@ -45,8 +45,6 @@ Happy Birthday 🎂
 
 ![tEOOW4.jpg](https://s1.ax1x.com/2020/05/27/tEOOW4.jpg)
 
-![tEI4fI.jpg](https://s1.ax1x.com/2020/05/27/tEI4fI.jpg)
-
 
 
 **找找今日的惊喜吧（不同的网站按钮多点一点）**
