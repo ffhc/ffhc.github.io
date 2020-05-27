@@ -15,5 +15,5 @@ cover-img: /assets/img/pass.jpg
 
 我还有这张
 
-![tEI4fI.jpg](https://s1.ax1x.com/2020/05/27/tEI4fI.jpg){: .mx-auto.d-block :}
+![tEI4fI.jpg](https://s1.ax1x.com/2020/05/27/tEI4fI.jpg)
 
