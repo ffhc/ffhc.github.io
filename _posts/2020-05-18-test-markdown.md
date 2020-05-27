@@ -11,9 +11,9 @@ cover-img: /assets/img/pass.jpg
 
 ## 我现在有两张王牌卡片
 
-![WP1](![tEI4fI.jpg](https://s1.ax1x.com/2020/05/27/tEI4fI.jpg))
+![tEIhtA.jpg](https://s1.ax1x.com/2020/05/27/tEIhtA.jpg)
 
 我还有这张
 
-![WP2](![tEIhtA.jpg](https://s1.ax1x.com/2020/05/27/tEIhtA.jpg)){: .mx-auto.d-block :}
+![tEI4fI.jpg](https://s1.ax1x.com/2020/05/27/tEI4fI.jpg){: .mx-auto.d-block :}
 
